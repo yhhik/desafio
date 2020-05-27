@@ -27,3 +27,4 @@ As seguintes tecnologias ou frameworks devem ser utilizadas:
 * Lombok (Opcional)
 * Teste Unitário (Opcional)
 * Spring data
+* Banco H2
