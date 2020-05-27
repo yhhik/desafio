@@ -26,3 +26,4 @@ As seguintes tecnologias ou frameworks devem ser utilizadas:
 * Angular 2 ou superior
 * Lombok (Opcional)
 * Teste Unitário (Opcional)
+* Spring data
